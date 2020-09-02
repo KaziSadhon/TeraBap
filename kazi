@@ -104,7 +104,7 @@ while (loop == 'true'):
         else:
             print "Wrong Password"https://www.facebook.com/terabapkazisadhon.3395
 
-            os.system('xdg-open https://www.facebook.com/terabapkazisadhon.3395
+            os.system('xdg-open
 
     else:
         print "Wrong Username"
