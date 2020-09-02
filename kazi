@@ -95,18 +95,20 @@ CorrectPassword = "kazi"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")terabapkazisadhon.3395
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")terabapkazisadhon.3395
+    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            print "Wrong Password"https://www.facebook.com/terabapkazisadhon.3395
+
+            os.system('xdg-open https://www.facebook.com/terabapkazisadhon.3395
+
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open 
 
 def login():
 	os.system('clear')
@@ -122,7 +124,7 @@ def login():
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
 		try:
-			br.open('https://m.facebook.com')
+			br.open('https://m.facebook.com/terabapkazisadhon.3395
 		except mechanize.URLError:
 			print"\n\033[1;96m[!] \x1b[1;91mThere is no internet connection"
 			keluar()
