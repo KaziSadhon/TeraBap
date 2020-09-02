@@ -83,7 +83,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor \033[1;93m: \033[1;92Sadhon7585
+\033[1;96mAuthor \033[1;93m: \033[1;92MdSadhon
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowSadhon
 \033[1;96mFacebook  \033[1;93m: \033[1;92m terabapkazisadhon.3395
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KaziSadhon/TeraBap
@@ -95,9 +95,9 @@ CorrectPassword = "kazi"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")terabapkazisadhon.3395
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")terabapkazisadhon.3395
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
